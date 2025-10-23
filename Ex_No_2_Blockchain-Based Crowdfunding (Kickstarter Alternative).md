@@ -77,3 +77,5 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+<img width="1920" height="1200" alt="Screenshot 2025-10-23 084455" src="https://github.com/user-attachments/assets/113851da-444e-4f68-9e7c-72515f7ecfae" />
+
