@@ -69,6 +69,16 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
+#output:
+
+![output 1](https://github.com/user-attachments/assets/64a7d049-1c67-4e6e-92b2-b63951de98f8)
+
+![output 2](https://github.com/user-attachments/assets/efbba652-ef0d-4d71-953e-585d8eb60e3c)
+
+![output 3](https://github.com/user-attachments/assets/6475b519-32d1-4c70-8efb-9a9c4b4befc9)
+
+![output 4](https://github.com/user-attachments/assets/946ec447-46dd-408d-9d22-2ce216bf230a)
+
 
 # High-Level Overview:
 Teaches decentralized fundraising.
